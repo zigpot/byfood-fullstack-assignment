@@ -1,0 +1,16 @@
+# .gitignore
+# Go
+bin/
+*.exe
+*.out
+
+# Node
+node_modules/
+.next/
+dist/
+
+# Env & logs
+.env
+.env.local
+*.log
+
